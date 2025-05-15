@@ -1,0 +1,7 @@
+1. you need to initialize it as a Git repository. The command for this is:
+
+git init
+
+# this creates the ".git" with example "D:/_alltechwebserver/homeprj/.git/", where "D:/_alltechwebserver/homeprj/" is the folder that will be in git
+
+
